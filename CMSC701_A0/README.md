@@ -1,0 +1,1 @@
+I mainly consulted basic C++ syntaxes and grammars with ChatGPT for this project. It's been a while since I last used C++ so I need to get familiar with the basics again. It feels nice working on this toy project in general.
